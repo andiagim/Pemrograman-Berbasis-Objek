@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MenuUtama
+comment1.params=
+comment1.target=MenuUtama()
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ displayTextEffect()
+numComments=6

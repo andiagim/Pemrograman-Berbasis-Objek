@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ callGameOver()
+comment4.params=
+comment4.target=void\ initializeSpawnLocations()
+comment5.params=object
+comment5.target=void\ randSpawn(greenfoot.Actor)
+comment6.params=jumlahZombie\ jumlahObjective
+comment6.target=void\ InitialSpawn(int,\ int)
+comment7.params=
+comment7.target=void\ DrawWall()
+comment8.params=
+comment8.target=void\ timer()
+numComments=9

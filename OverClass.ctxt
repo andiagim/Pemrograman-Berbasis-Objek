@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OverClass
+comment1.params=x\ y\ object
+comment1.target=boolean\ noObjectInWay(int,\ int,\ java.lang.Class)
+comment2.params=object
+comment2.target=boolean\ objectAtSameLocation(java.lang.Class)
+numComments=3

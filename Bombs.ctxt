@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bombs
+comment1.params=
+comment1.target=Bombs()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=bomb\ firePower
+comment3.target=void\ explode(java.lang.Class,\ int)
+numComments=4
